@@ -1,0 +1,22 @@
+{
+  "name": "mocha-chai-snapshot",
+  "version": "1.0.0",
+  "description": "Hook for chai to get Jest like snapshot testing",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monojitb02/mocha-chai-snapshot.git"
+  },
+  "keywords": [
+    "chai",
+    "snapshot",
+    "mocha",
+    "jest-snapshot"
+  ],
+  "author": "Monojit Biswas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/monojitb02/mocha-chai-snapshot/issues"
+  },
+  "homepage": "https://github.com/monojitb02/mocha-chai-snapshot#readme"
+}
